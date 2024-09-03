@@ -1,0 +1,5 @@
+2024-09-03 14:36:55 +08 LOG:  database system was shut down at 2024-09-03 14:36:40 +08
+2024-09-03 14:36:55 +08 LOG:  MultiXact member wraparound protections are now enabled
+2024-09-03 14:36:55 +08 LOG:  database system is ready to accept connections
+2024-09-03 14:36:55 +08 LOG:  autovacuum launcher started
+2024-09-03 14:37:39 +08 FATAL:  database "admin_db" does not exist
